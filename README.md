@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Vinicius.</h2>
 
-- 🔭 I’m currently working at BYX - Capital as a Front-end Developer
-- 🌱 I’m currently learning more on ReactJS, NextJS, TypeScript and ViteJS
+- 🔭 I’m currently working at Atlantic Solutions as a Front-end Developer
+- 🌱 I’m currently learning more on VueJS, ReactJS, NextJS, TypeScript and ViteJS
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/vinicius-marsola-685154195/)
 - ⚡ Fun fact: A gearhead since i was a little kid
 
